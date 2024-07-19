@@ -1,2 +1,2 @@
 # Youtube Video Downloader
-Downloads a given youtube video link as mp3 or mp4
+Downloads a given youtube video link as the highest resolution mp4 file available
